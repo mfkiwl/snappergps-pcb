@@ -1,6 +1,6 @@
 # SnapperGPS: Getting started
 
-You just obtained your first SnapperGPS receiver or built one yourself? Here is how to get started with a quick test. If you face any problems on the way, check our troubleshooting section on [https://snappergps.info/](https://snappergps.info/), ask a question [on GitHub](https://github.com/orgs/SnapperGPS/discussions), or create [a new troubleshooting issue](https://github.com/SnapperGPS/snappergps-pcb/issues).
+You just obtained your first SnapperGPS receiver or built one yourself? Here is how to get started with a quick test. If you face any problems on the way, check our troubleshooting section on [https://snappergps.github.io/snappergps-app-v2/public/](https://snappergps.github.io/snappergps-app-v2/public/), ask a question [on GitHub](https://github.com/orgs/SnapperGPS/discussions), or create [a new troubleshooting issue](https://github.com/SnapperGPS/snappergps-pcb/issues).
 
 ## What is in the box?
 
@@ -42,13 +42,13 @@ Finally, connect a USB-C cable to the USB-C port of your SnapperGPS receiver.
 
 Connect your SnapperGPS receiver via USB to your laptop, desktop computer, tablet, or phone. (Note: iOS and iPadOS are not supported.)
 
-Go to [https://snappergps.info/](https://snappergps.info/) in a browser like Microsoft Edge or Google Chrome. (Note: Mozilla Firefox and Apple Safari are not supported, for example.)
+Go to [https://snappergps.github.io/snappergps-app-v2/public/](https://snappergps.github.io/snappergps-app-v2/public/) in a browser like Microsoft Edge or Google Chrome. (Note: Mozilla Firefox and Apple Safari are not supported, for example.)
 
 Click on “Configure” and then on “Pair Receiver”. If your SnapperGPS receiver is connected via USB, you should see it in a pop-up and should be able to select it.
 
-| ![Home page of https://snappergps.info/](images/home-page-configure-screenshot.png) |
+| ![Home page of https://snappergps.github.io/snappergps-app-v2/public/](images/home-page-configure-screenshot.png) |
 |:--:|
-| *Figure 5: Home page of https://snappergps.info/.* |
+| *Figure 5: Home page of https://snappergps.github.io/snappergps-app-v2/public/.* |
 
 | ![Configure page before pairing a SnapperGPS receiver](images/pair-receiver-screenshot.png) |
 |:--:|
@@ -86,14 +86,14 @@ When your SnapperGPS receiver has not started to record data, then both LEDs wil
 
 ## Upload your data.
 
-Connect you SnapperGPS receiver again via USB and go to the Upload page of [https://snappergps.info/](https://snappergps.info/). Follow the instructions there to upload your raw data to our server.
+Connect you SnapperGPS receiver again via USB and go to the Upload page of [https://snappergps.github.io/snappergps-app-v2/public/](https://snappergps.github.io/snappergps-app-v2/public/). Follow the instructions there to upload your raw data to our server.
 
 Once your data has been processed, you should be able to see the final computed track on the download page.
 
 
-| ![Home page of https://snappergps.info/](images/home-page-upload-screenshot.png) |
+| ![Home page of https://snappergps.github.io/snappergps-app-v2/public/](images/home-page-upload-screenshot.png) |
 |:--:|
-| *Figure 10: Home page of https://snappergps.info/.* |
+| *Figure 10: Home page of https://snappergps.github.io/snappergps-app-v2/public/.* |
 
 | ![A SnapperGPS receiver with its recorded track](images/app.jpg) |
 |:--:|
